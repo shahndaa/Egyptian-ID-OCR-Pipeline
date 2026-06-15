@@ -14,6 +14,13 @@ visible.
 
 ---
 
+## 🔗 Links
+
+- **GitHub Repository**: https://github.com/shahndaa/Egyptian-ID-OCR-Pipeline
+- **Live Demo (Hugging Face Space)**: https://huggingface.co/spaces/Shahnda/Egyptian-ID-OCR
+
+---
+
 ## 1. Pipeline Overview
 
 ```
